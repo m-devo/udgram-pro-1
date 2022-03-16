@@ -13,7 +13,7 @@ global:
   include_git_submodules: true
   instance_profile: null
   platform_name: null
-  platform_version: V0
+  platform_version: null
   profile: default
   repository: null
   sc: null
